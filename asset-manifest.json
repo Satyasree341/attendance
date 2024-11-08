@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/attendance/%20/static/css/main.7d2a1c34.css",
-    "main.js": "/attendance/%20/static/js/main.c56da437.js",
+    "main.js": "/attendance/%20/static/js/main.d2205d46.js",
     "static/media/apptechknowlogo.jpeg": "/attendance/%20/static/media/apptechknowlogo.a4c8a7717ac5cb9fd7ad.jpeg",
     "index.html": "/attendance/%20/index.html",
     "main.7d2a1c34.css.map": "/attendance/%20/static/css/main.7d2a1c34.css.map",
-    "main.c56da437.js.map": "/attendance/%20/static/js/main.c56da437.js.map"
+    "main.d2205d46.js.map": "/attendance/%20/static/js/main.d2205d46.js.map"
   },
   "entrypoints": [
     "static/css/main.7d2a1c34.css",
-    "static/js/main.c56da437.js"
+    "static/js/main.d2205d46.js"
   ]
 }
